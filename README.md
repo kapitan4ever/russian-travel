@@ -21,3 +21,5 @@
 Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
 
 Удачи!
+
+Ссылка на gh-page https://kapitan4ever.github.io/russian-travel/
