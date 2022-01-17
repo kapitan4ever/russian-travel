@@ -1,0 +1,22 @@
+.cover__link {
+	transition: opacity .5s ease;
+	text-decoration: none;
+	color: #fff;
+}
+
+.cover__link:before {
+  content: '';
+  background-color: #2a2c2f;
+  opacity: .3;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  transition: opacity .5s ease;
+}
+
+.cover__link:hover::before {
+	opacity: 0.8;
+	cursor: pointer;
+}

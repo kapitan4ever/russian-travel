@@ -1,10 +1,10 @@
 .header {
   max-width: 1184px;
-  min-height: 52px;
   margin: 0 auto;
-  padding-top: 28px;
+  padding: 0;
   font-family: 'Inter', 'Arial', sans-serif;
   display: flex;
   justify-content: space-between;
+	align-items: center;
   overflow: hidden;
 } 

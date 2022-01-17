@@ -4,4 +4,9 @@
 	font-weight: normal;
 	line-height: 22px;
 	text-decoration: underline;
+	transition: opacity .5s ease;
+}
+
+.place__website__link:hover {
+	opacity: .8;
 }
