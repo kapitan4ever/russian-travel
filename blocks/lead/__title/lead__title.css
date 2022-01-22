@@ -10,22 +10,23 @@
 
 @media screen and (max-width: 1024px) {
   .lead__title {
-		margin: 48px auto 32px;
+    margin: 48px auto 32px;
   }
 }
 
 @media screen and (max-width: 740px) {
   .lead__title {
-		font-size: 54px;
+    font-size: 54px;
     line-height: 58px;
-		width: 90%;
-		margin-bottom: 16px;
+    width: 90%;
+    margin-bottom: 16px;
   }
 }
 
 @media screen and (max-width: 450px) {
   .lead__title {
     font-size: 40px;
-		line-height: 44px;
+    line-height: 44px;
+    width: 100%;
   }
 }

@@ -1,10 +1,6 @@
 .header {
-  max-width: 1184px;
-  margin: 0 auto;
-  padding: 0;
   font-family: 'Inter', 'Arial', sans-serif;
   display: flex;
   justify-content: space-between;
-	align-items: center;
-  overflow: hidden;
+  align-items: center;
 } 

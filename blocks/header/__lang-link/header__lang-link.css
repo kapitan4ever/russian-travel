@@ -5,11 +5,16 @@
     font-size: 24px;
     line-height: 28px;
     margin-left: 18px;
+    transition: opacity .5s ease;
 }
 
-@media screen and (max-width: 768px) {
+.header__lang-link:hover {
+    opacity: .8;
+}
+
+@media screen and (max-width: 425px) {
   .header__lang-link {
-		font-size: 18px;
-		line-height: 20px;
+    font-size: 18px;
+    line-height: 20px;
   }
 }

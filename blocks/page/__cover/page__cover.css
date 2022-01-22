@@ -1,0 +1,38 @@
+.page__cover {
+  padding: 0;
+  margin: 92px auto;
+  max-width: 1184px;
+}
+
+@media screen and (max-width: 1280px) {
+  .page__cover {
+    width: 95%;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .page__cover {
+    width: 90%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .page__cover {
+    width: 90%;
+    margin: 90px auto 88px;
+  }
+}
+
+@media screen and (max-width: 425px) and (min-width: 375px) {
+  .page__cover {
+    margin-top: 48px;
+    width: 90%;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .page__cover {
+    margin-top: 64px;
+    margin-bottom: 64px;
+  }
+}
